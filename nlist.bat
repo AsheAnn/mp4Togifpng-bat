@@ -1,0 +1,1 @@
+dir /c /o:-s /on > list.txt
